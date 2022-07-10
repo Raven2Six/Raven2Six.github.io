@@ -23,6 +23,8 @@ description:   Notes and other random thoughts
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "blog"
+  Notes & Walkthroughs: "notes"
   About Me: "aboutme"
   Education: "education"
   Projects: "projects"
