@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "Notes"
 date: "2022-7-10"
 excerpt: "My notes and walkthroughs of various items. This platform makes it much easier for me to recall and reference my previous efforts"
