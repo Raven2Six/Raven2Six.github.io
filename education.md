@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "Education"
 excerpt: "An overview of my educational pursuits and accomplishments."
 image: /images/profile.png
