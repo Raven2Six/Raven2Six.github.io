@@ -1,7 +1,3 @@
----
-layout: "page"
-excerpt: "just a few commands"
----
 
 ### Linux Commands - cheatsheet
 
