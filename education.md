@@ -3,6 +3,7 @@ layout: "post"
 title: "Education"
 date: "2022-7-10"
 excerpt: "An overview of my educational pursuits and accomplishments."
+image: /images/profile.png
 ---
 While this site captures my random, unfiltered notes and thoughts on topics I research, I feel it is good to add some information regarding my official education, certificates, awards, and honors.  
 
