@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speeding up TensorFlows Input Pipeline
+title: WHAAAAT Speeding up TensorFlows Input Pipeline
 date: '2017-09-11 10:42'
 excerpt: >-
   Doubling the training speed by adding two arguments to the new input pipeline
