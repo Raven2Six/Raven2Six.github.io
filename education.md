@@ -32,7 +32,10 @@ While this site captures my random, unfiltered notes and thoughts on topics I re
 - Sales & Service Excellence Champion, Wells Fargo
 - Officer Title: Vice President, Wells Fargo
 
+### Badges
 <script src="https://tryhackme.com/badge/292778"></script>
+
+<script src="https://app.hackthebox.com/profile/508464></script>
 
 ### Resume
 - My Resume - available upon request
