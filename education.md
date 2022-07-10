@@ -31,3 +31,6 @@ While this site captures my random, unfiltered notes and thoughts on topics I re
 - National Cyber League Team member
 - Sales & Service Excellence Champion, Wells Fargo
 - Officer Title: Vice President, Wells Fargo
+
+### Resume
+- My Resume - available upon request
