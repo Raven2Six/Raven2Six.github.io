@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Hello, I am B.J.
-subtitle: A seasoned technical architect, developer, hacker, nice guy looking to get smarter
+title: About Me
+subtitle: 
 image: /images/profile.png
 ---
+
+Hello, my name is Brandt but I go by B.J.  I am a seasoned technical architect, developer, hacker, and nice guy looking to improve my skills and learn some new ones along the way.
 
 I have been a software developer since 1998.  Fourteen years were spent as an Application Development Manager for a mission-critical application of 50K+ users. I have managed as many as 31 full-time and 16 contract application and database developers simultaneously. I have developed code in many industries and platforms, including the shrink-wrap software industry and scientific applications such as satellite command and control centers. I have also developed code for applications within the financial sector.
 
