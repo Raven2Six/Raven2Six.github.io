@@ -13,4 +13,4 @@ Just my notes on particular topics.  Nothing formal or special, but hopefully it
 - placeholder
 
 ### Notes
-- [Test-notes](https://raven2six.github.io/notes/test)
+- [Test-notes](https://raven2six.github.io/notes/Linux-cmd-system-info.markdown)
