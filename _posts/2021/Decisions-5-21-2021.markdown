@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decisions'
-date: '2021-05-2021'
+date: '2021-05-21'
 excerpt: >-
   Expensive certs
 comments: true
