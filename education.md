@@ -1,7 +1,6 @@
 ---
 layout: "post"
 title: "Education"
-date: "2022-7-10"
 excerpt: "An overview of my educational pursuits and accomplishments."
 image: /images/profile.png
 ---
