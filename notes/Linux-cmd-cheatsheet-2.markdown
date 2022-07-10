@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "Linux Commands - cheatsheet 2"
 date: "2022-7-10"
 excerpt: "just a few commands"
