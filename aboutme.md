@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-subtitle:
+title: Hello, my name is B.J.
+subtitle: A seasoned technical architect, developer, hacker, nice guy looking to get smarter
 image: /images/profile.png
 ---
 
