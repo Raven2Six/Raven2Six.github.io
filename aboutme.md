@@ -2,13 +2,8 @@
 layout: page
 title: About me
 subtitle:
+image: /images/profile.png
 ---
-
-<div class="fig figcenter fighighlight">
-  <img src="/images/profile.png">
-  <div class="figcaption"><br>me<br>
-  </div>
-</div>
 
 I have been a software developer since 1998.  Fourteen years were spent as an Application Development Manager for a mission-critical application of 50K+ users. I have managed as many as 31 full-time and 16 contract application and database developers simultaneously. I have developed code in many industries and platforms, including the shrink-wrap software industry and scientific applications such as satellite command and control centers. I have also developed code for applications within the financial sector.
 
