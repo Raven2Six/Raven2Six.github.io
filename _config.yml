@@ -24,7 +24,7 @@ description:   Notes and other random thoughts
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Open Learning: "openlearning"
+  Education: "education"
   Projects: "projects"
   Events: "events"
 #  Resources:
