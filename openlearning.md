@@ -1,13 +1,14 @@
 ---
 layout: "post"
 title: "Education"
-#date: "2016-01-21 14:16"
+date: "2022-7-10"
 excerpt: "An overview of my educational pursuits and accomplishments."
 ---
 While this site captures my random, unfiltered notes and thoughts on topics I research, I feel it is good to add some information regarding my official education, certificates, awards, and honors.  
 
 
 ### Education
+
 
 #### M.S. Cybersecurity and Information Assurance
 - Western Governors University
