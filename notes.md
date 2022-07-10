@@ -4,13 +4,7 @@ title: "Notes"
 date: "2022-7-10"
 excerpt: "My notes and walkthroughs of various items. This platform makes it much easier for me to recall and reference my previous efforts"
 ---
-Just my notes on particular topics.  Nothing formal or special, but hopefully it is occasionally useful to others
-
-
-### Placeholder
-
-#### Sub-Placeholder
-- placeholder
+Nothing formal or special, just my notes on particular topics. I choose to document the information here for my reference.  There may be typos, inconsistent formatting, and possibly be incorrect.  I know it is helpful to me and possibly useful to others on occasion. I am always open to talk about what is here or even be corrected if something is wrong.
 
 ### Notes
 - [Linux cmd - system information](https://raven2six.github.io/notes/Linux-cmd-system-info.markdown)
