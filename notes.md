@@ -9,4 +9,4 @@ Nothing formal or special, just my notes on particular topics. I choose to docum
 ### Notes
 - [Linux cmd - system information](https://raven2six.github.io/notes/Linux-cmd-system-info.markdown)
 - [Linux cmd - cheatsheet](https://raven2six.github.io/notes/Linux-cmd-cheatsheet.markdown)
-- [Linux cmd - cheatsheet-2](https://github.com/Raven2Six/Raven2Six.github.io/blob/master/notes/Linux-cmd-cheatsheet-2.markdown)
+- [Linux cmd - cheatsheet-2](https://raven2six.github.io/notes/Linux-cmd-cheatsheet-2.markdown)
