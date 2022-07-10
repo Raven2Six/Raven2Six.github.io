@@ -26,7 +26,7 @@ While this site captures my random, unfiltered notes and thoughts on topics I re
 ### Awards and Achievements
 - Awarded 2021 SAIC CyberWarrior Scholarship - approximately $10,000.00
 - Awarded invite to four-month SANS Cyber Foundation Academy
-- Order of the Sword & Shield National Honor Society - life member (https://www.securityhonorsociety.org/)
+- [Order of the Sword & Shield National Honor Society - life member](https://www.securityhonorsociety.org/)
 - Member of Western Governors University Cyber Security Club
 - National Cyber League Team member
 - Sales & Service Excellence Champion, Wells Fargo
