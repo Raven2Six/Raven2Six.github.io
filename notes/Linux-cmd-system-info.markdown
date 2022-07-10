@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "Linux Commands - System Information"
 date: "2022-7-10"
 excerpt: "just a few commands for system information"
