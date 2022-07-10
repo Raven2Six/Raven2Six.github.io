@@ -16,10 +16,10 @@ While this site captures my random, unfiltered notes and thoughts on topics I re
 - Chapman University
 
 ### Certifications
-- [PenTest+] (https://www.credly.com/users/brandt-jason-hall/badges)
+- [PenTest+](https://www.credly.com/users/brandt-jason-hall/badges)
 - [Certified Ethical Hacker (CEH)] (Name: Brandt Hall, CN: ECC8531906247) (https://aspen.eccouncil.org/Verify)
-- [Computer Hacking Forensic Investigator (CHFI)] (https://aspen.eccouncil.org/Verify) (Name: Brandt Hall, CN: ECC9563824017) 
-- Security+ (https://www.credly.com/users/brandt-jason-hall/badges)
+- [Computer Hacking Forensic Investigator (CHFI)](https://aspen.eccouncil.org/Verify) (Name: Brandt Hall, CN: ECC9563824017) 
+- [Security+](https://www.credly.com/users/brandt-jason-hall/badges)
 - CNVP (Network Vulnerability Assessment Professional) (https://www.credly.com/users/brandt-jason-hall/badges)
 
 ### Awards and Achievements
