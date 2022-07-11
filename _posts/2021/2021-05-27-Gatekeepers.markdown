@@ -12,7 +12,7 @@ Gatekeepers
 
 I had a job interview today.  Nothing major, and if it worked out, it would have been a side gig.  I applied for a position that happened to get filled earlier in the morning.  Rather than sending me a cancellation, the employer kept the meeting.  During the discussion, they discussed another software development position and asked me a few questions.
 
-They asked if I had Java experience.  I stated that I do have Java experience.  They then asked if I had experience writing code for mobile platforms such as Android.  I said no, I hadn’t written code for Androids, but I have had to hack into some.  Of course, they weren’t looking for that kind of experience and needed someone with mobile development experience.  We ended the conversation about 10 minutes later.
+They asked if I had Java experience.  I stated that I do have Java experience.  They then asked if I had experience writing code for mobile platforms such as Android.  I said no, I hadn’t written code for Android, but I have had to hack into some.  Of course, they weren’t looking for that kind of experience and needed someone with mobile development experience.  We ended the conversation about 10 minutes later.
 
 All of that brings me to my issue, HR and “talent acquisition” people that don’t have a clue about technology.  In this example, it is related to programming languages; however, we see this as an issue all the time with cybersecurity roles and HR “gatekeepers.”  
 
