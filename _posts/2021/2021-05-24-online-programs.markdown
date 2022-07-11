@@ -11,7 +11,7 @@ comments: true
 
 Online cybersecurity training platforms
 
-We are fortunate to have many online opportunities for education and training.  Some of my favorites are Hack the Box (https://www.hackthebox.eu) and TryHackMe (https://tryhackme.com).  
+We are fortunate to have many online opportunities for education and training.  Some of my favorites are [Hack the Box](https://www.hackthebox.eu) and [TryHackMe](https://tryhackme.com).  
 
 I find TryHackMe (THM) to be more educational and more straightforward for learning.  It is an easy platform to jump in and start.  There are learning paths that award certificates upon completion, and the daily-streak feature is quite addicting!
 
