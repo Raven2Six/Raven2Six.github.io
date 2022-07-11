@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TEST - Online cybersecurity training platforms'
+title: 'Online cybersecurity training platforms'
 date: '2021-05-24'
 excerpt: >-
   We are fortunate to have many online opportunities for education and training.
