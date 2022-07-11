@@ -35,7 +35,7 @@ While this site captures my random, unfiltered notes and thoughts on topics I re
 ### Badges
 <script src="https://tryhackme.com/badge/292778"></script>
 
-![Arrexel](https://app.hackthebox.com/profile/508464)
+![RavenSix](https://app.hackthebox.com/profile/508464)
 
 ### Resume
 - My Resume - available upon request
