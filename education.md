@@ -35,10 +35,11 @@ While this site captures my random, unfiltered notes and thoughts on topics I re
 ### Badges
 <script src="https://tryhackme.com/badge/292778"></script>
 
-{{< image src="https://www.hackthebox.eu/badge/image/508464" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
-
 ### another go
-<script src="https://www.hackthebox.eu/badge/image/508464"></script>
+<script src="https://www.hackthebox.com/badge/image/508464"></script>
+
+### and another
+<script src="https://www.hackthebox.com/badge/508464"></script>
 
 ### Resume
 - My Resume - available upon request
