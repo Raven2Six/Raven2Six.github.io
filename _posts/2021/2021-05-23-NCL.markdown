@@ -6,6 +6,7 @@ excerpt: >-
   The National Cyber League hosts a very fun and challenging event.
 comments: true
 ---
+5/23/2021
 
 Today, I received a surprise in the mail, a very cool coin and stickers from the NCL.  These awards were for finishing in the top 500 players in their spring 2021 competition.  Four thousand one hundred eighty individual players competed over a few days in ten unique skill areas from OSINT to Exploitation. 
 
