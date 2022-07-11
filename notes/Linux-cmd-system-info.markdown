@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "minimal"
 excerpt: "just a few commands for system information"
 ---
 ### Linux Commands - System Information
