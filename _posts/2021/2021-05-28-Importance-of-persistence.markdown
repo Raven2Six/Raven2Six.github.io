@@ -8,6 +8,7 @@ comments: true
 ---
 
 5/28/2021
+
 The importance of persistence.  
 
 Achieving mastery in any area of cybersecurity is a challenging and worthy pursuit.  The breadth and depth are incredible.  How do you determine where to focus your time?  Are you more interested in red teaming?  Blue-teaming?  How about Purple-teaming?  Those are all tough choices and only represent a small portion of available options.  Most of us want to say, “I want to know all that.”  It isn’t quite that simple, at least not for me.
